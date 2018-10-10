@@ -6,16 +6,15 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/picker_demo"
-            android:icon="@drawable/ic_action_name1"
+            android:icon="@drawable/ic_menu_manage"
             android:title="Picker Demo" />
         <item
             android:id="@+id/text_field_demo"
-            android:icon="@drawable/ic_action_name3"
+            android:icon="@drawable/ic_menu_manage"
             android:title="Text Field Demo" />
         <item
             android:id="@+id/toggle_demo"
-            android:icon="@drawable/ic_action_name2"
+            android:icon="@drawable/ic_menu_manage"
             android:title="Toggle Demo" />
-
     </group>
 </menu>
