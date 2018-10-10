@@ -6,6 +6,7 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/picker_demo"
+<<<<<<< HEAD
             android:icon="@drawable/ic_action_picker"
             android:title="Picker Demo" />
         <item
@@ -15,6 +16,17 @@
         <item
             android:id="@+id/toggle_demo"
             android:icon="@drawable/ic_action_picker"
+=======
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Picker Demo" />
+        <item
+            android:id="@+id/text_field_demo"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Text Field Demo" />
+        <item
+            android:id="@+id/toggle_demo"
+            android:icon="@drawable/ic_menu_manage"
+>>>>>>> b653ed44f1e0eb33fbefc61bbdae587802e88952
             android:title="Toggle Demo" />
     </group>
 </menu>
