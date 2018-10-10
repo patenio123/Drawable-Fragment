@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="date_editText" type="id">1</item>
+    <item name="time_editText" type="id">1</item>
+    <item name="toggle_button" type="id">2</item>
+    <item name="toggle_switch" type="id">2</item>
+
+    <item name="picker_demo" type="id" />
+    <item name="text_field_demo" type="id" />
+    <item name="toggle_demo" type="id" />
+</resources>
